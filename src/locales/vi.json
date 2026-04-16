@@ -1,0 +1,19 @@
+{
+    "common": {
+        "home": "Trang chủ",
+        "users": "Danh sách",
+        "counter": "Bộ đếm",
+        "about": "Giới thiệu",
+        "login": "Đăng nhập",
+        "logout": "Đăng xuất",
+        "save": "Lưu",
+        "cancel": "Hủy",
+        "delete": "Xóa",
+        "edit": "Chỉnh sửa",
+        "search": "Tìm kiếm",
+        "loading": "Đang tải..."
+    },
+    "message": {
+        "welcome": "Chào mừng đến với ứng dụng Vue Demo! Đây là trang chủ."
+    }
+}
